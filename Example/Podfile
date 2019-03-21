@@ -5,7 +5,4 @@ platform :ios, '8.0'
 target 'Category_Example' do
   pod 'Category', :path => '../'
 
-  target 'Category_Tests' do
-    inherit! :search_paths
-  end
 end
