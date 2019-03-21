@@ -7,7 +7,5 @@ target 'Category_Example' do
 
   target 'Category_Tests' do
     inherit! :search_paths
-
-    pod 'FBSnapshotTestCase'
   end
 end
