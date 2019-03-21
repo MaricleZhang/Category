@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'Category'
+  s.name             = 'MZCategory'
   s.version          = '0.0.1'
   s.summary          = 'Objective-C common category tools'
 

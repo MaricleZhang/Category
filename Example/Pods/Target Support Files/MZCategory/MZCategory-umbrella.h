@@ -17,6 +17,6 @@
 #import "UIImage+Color.h"
 #import "UIView+EnlargeArea.h"
 
-FOUNDATION_EXPORT double CategoryVersionNumber;
-FOUNDATION_EXPORT const unsigned char CategoryVersionString[];
+FOUNDATION_EXPORT double MZCategoryVersionNumber;
+FOUNDATION_EXPORT const unsigned char MZCategoryVersionString[];
 

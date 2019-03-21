@@ -1,16 +1,16 @@
 PODS:
-  - Category (0.0.1)
+  - MZCategory (0.0.1)
 
 DEPENDENCIES:
-  - Category (from `../`)
+  - MZCategory (from `../`)
 
 EXTERNAL SOURCES:
-  Category:
+  MZCategory:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Category: 8eacfd530cf3525c4cb1c0e926cca31461b6ed7d
+  MZCategory: 2139020e49f9340f6f303951cd8f32f9b4b15dc8
 
-PODFILE CHECKSUM: fbc6fdde7d021cac6ff8c1763b17d15b8b33d094
+PODFILE CHECKSUM: 1feda65abea74a81bbd7390b038142f2ab939105
 
 COCOAPODS: 1.5.3

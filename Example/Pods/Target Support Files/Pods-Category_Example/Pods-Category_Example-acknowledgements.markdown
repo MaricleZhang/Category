@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## Category
+## MZCategory
 
 Copyright (c) 2019 MaricleZhang <jian.zhang@qianli.com>
 

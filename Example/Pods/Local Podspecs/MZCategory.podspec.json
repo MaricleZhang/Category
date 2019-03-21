@@ -1,0 +1,22 @@
+{
+  "name": "MZCategory",
+  "version": "0.0.1",
+  "summary": "Objective-C common category tools",
+  "description": "Objective-C common category tools.",
+  "homepage": "https://github.com/MaricleZhang/Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MaricleZhang": "929006968@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/MaricleZhang/Category.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Category/Classes/**/*"
+}
